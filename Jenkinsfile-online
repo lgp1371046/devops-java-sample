@@ -14,7 +14,7 @@ pipeline {
         GITHUB_CREDENTIAL_ID = 'github-2c0b21'
         KUBECONFIG_CREDENTIAL_ID = 'demo-kubeconfig'
         REGISTRY = 'reg.kolla.org'
-        DOCKERHUB_NAMESPACE = 'kolla'
+        DOCKERHUB_NAMESPACE = 'kubesphere'
         GITHUB_ACCOUNT = 'lgp1371046'
         APP_NAME = 'devops-java-sample'
         SONAR_CREDENTIAL_ID= 'sonar-token'
