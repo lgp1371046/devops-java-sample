@@ -12,7 +12,7 @@ pipeline {
     environment {
         DOCKER_CREDENTIAL_ID = 'dockerhub-id'
         REGISTRY = 'reg.kolla.org'
-        DOCKERHUB_NAMESPACE = 'kolla'
+        DOCKERHUB_NAMESPACE = 'kubesphere'
         GITHUB_ACCOUNT = 'lgp1371046'
         APP_NAME = 'devops-java-sample'
     }
